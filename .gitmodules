@@ -1,0 +1,3 @@
+[submodule "AtomicGenerators"]
+	path = AtomicGenerators
+	url = git@github.com:VPDPersonal/AtomicGenerators.git
