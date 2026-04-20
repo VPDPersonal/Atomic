@@ -14,9 +14,7 @@
 built around the idea of constructing game systems from **atomic elements** — modular units represented as constants,
 variables, events, actions, and functions.
 
-It addresses a core limitation of traditional object-oriented approaches — the gradual increase in coupling and architectural complexity as a project evolves, which leads to continuous refactoring. Atomic reduces these costs through fine-grained decomposition and explicit management of dependencies between elements.
-
-As a result, development shifts from maintaining architecture to implementing gameplay mechanics, logic, and behavior.
+The framework reduces coupling and simplifies dependency management by separating data and logic. This allows developers to focus on implementing gameplay mechanics instead of maintaining architecture.
 
 ---
 
