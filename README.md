@@ -14,9 +14,9 @@
 built around the idea of constructing game systems from **atomic elements** — modular units represented as constants,
 variables, events, actions, and functions.
 
-This approach eliminates the need for continuous architectural redesign and code refactoring during project iteration.
-Instead, it allows developers to focus entirely on creating gameplay mechanics, logic and behaviour — not on maintaining
-complex object-oriented structures.
+It addresses a core limitation of traditional object-oriented approaches — the gradual increase in coupling and architectural complexity as a project evolves, which leads to continuous refactoring. Atomic reduces these costs through fine-grained decomposition and explicit management of dependencies between elements.
+
+As a result, development shifts from maintaining architecture to implementing gameplay mechanics, logic, and behavior.
 
 ---
 
